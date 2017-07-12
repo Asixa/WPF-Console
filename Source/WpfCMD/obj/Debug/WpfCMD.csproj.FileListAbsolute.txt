@@ -1,0 +1,33 @@
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\bin\Debug\WpfCMD.exe.config
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\bin\Debug\WpfCMD.exe
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\bin\Debug\WpfCMD.pdb
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\MainWindow.g.cs
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\WPFcmd.g.cs
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\App.g.cs
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\WpfCMD_MarkupCompile.cache
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\WpfCMD_MarkupCompile.lref
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\MainWindow.baml
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\WPFcmd.baml
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\WpfCMD.g.resources
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\WpfCMD.Properties.Resources.resources
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\WpfCMD.csproj.GenerateResource.Cache
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\WpfCMD.exe
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\WpfCMD.pdb
+c:\users\fangxm\documents\visual studio 2017\Projects\WpfCMD\WpfCMD\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\bin\Debug\WpfCMD.exe.config
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\bin\Debug\WpfCMD.exe
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\bin\Debug\WpfCMD.pdb
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\WpfCMD_MarkupCompile.cache
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\WpfCMD_MarkupCompile.lref
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\WpfCMD.g.resources
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\WpfCMD.Properties.Resources.resources
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\WpfCMD.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\WpfCMD.exe
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\WpfCMD.pdb
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\WpfCMD.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\Console.g.cs
+C:\Users\lenovo\Desktop\WpfCMD\WpfCMD\obj\Debug\Console.baml
